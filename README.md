@@ -11,3 +11,6 @@ This is a transactional data set which contains all the transactions occurring b
 - UnitPrice : Unit price
 - CustomerID : Customer number
 - Country: Name of the country where each customer resides
+
+
+## Data Classification
