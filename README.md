@@ -14,3 +14,4 @@ This is a transactional data set which contains all the transactions occurring b
 
 
 ## Data Classification
+The data classification techniques are RFM analysis and K-mean clustering. RMF is the marketing technique that used to rank and group customers based on the recency, frequency, and monetary total of their transactions to identify the best customers and perform targeted marketing promotion. This technique tries to score customers on each of three factors. A score is given from 1 to 5, with 1 being the lowest. Then, use the score to perform K-mean clustering is an iterative algorithm that tries to partition the dataset into K distinct clusters which this study uses K = 5 as five clusters to group the customers and plan the marketing strategy. 
